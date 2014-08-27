@@ -67,15 +67,14 @@ bleep
 person
 child
 bottom
-thargoid
-thargoid
-thargoid
-thargoid
-thargoid
-thargoid
-thargoid
-thargoid
-thargoid
-thargoid
-@#$!!*$er
+Thargoid
+Thargoid
+Thargoid
+Thargoid
+Thargoid
+Thargoid
+Thargoid
+Thargoid
+Thargoid
+Thargoid
 shuttle pilot

@@ -1,6 +1,8 @@
 FileInstall, Noun.txt, Noun.txt
 FileInstall, Verbing.txt, Verbing.txt
 FileInstall, Verber.txt, Verber.txt
+FileInstall, Greeting.txt, Greeting.txt
+FileInstall, Valediction.txt, Valediction.txt
 
 Loop, Read, Noun.txt
 {
@@ -20,7 +22,19 @@ Loop, Read, Verber.txt
     VerberMax = %A_Index%
 }
 
-::insult::
+Loop, Read, Greeting.txt
+{
+    Greeting%A_Index% = %A_LoopReadLine%
+    GreetingMax = %A_Index%
+}
+
+Loop, Read, Valediction.txt
+{
+    Valediction%A_Index% = %A_LoopReadLine%
+    ValedictionMax = %A_Index%
+}
+
+::Insult!::
 
 Insult:
 Random, RandN1, 1, %NounMax%
@@ -35,3 +49,25 @@ RandVerber := Verber%RandVer%
 
 Send You %RandNoun1% %RandVerbing% %RandNoun2% %RandVerber%{!}{Enter}
 Return
+
+
+::Greetings!::
+
+Greeting:
+Random, RandGre, 1, %GreetingMax%
+RandGreeting := Greeting%RandGre%
+
+Send %RandGreeting%.{Enter}
+Return
+
+
+::Bye.::
+
+Valediction:
+Random, RandVal, 1, %ValedictionMax%
+RandValediction := Valediction%RandVal%
+
+Send %RandValediction%.{Enter}
+Return
+
+
