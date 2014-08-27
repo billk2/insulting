@@ -34,6 +34,7 @@ Loop, Read, Valediction.txt
     ValedictionMax = %A_Index%
 }
 
+
 ::Insult!::
 
 Insult:
@@ -69,7 +70,7 @@ Random, RandVal2, 1, %ValedictionMax%
 RandValediction := Valediction%RandVal%
 RandValediction2 := Valediction%RandVal2%
 
-Send %RandValediction% then. RandValediction2{!}{Enter}
+Send %RandValediction% then. %RandValediction2%{!}{Enter}
 Return
 
 
