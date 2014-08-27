@@ -57,17 +57,19 @@ Greeting:
 Random, RandGre, 1, %GreetingMax%
 RandGreeting := Greeting%RandGre%
 
-Send %RandGreeting%.{Enter}
+Send %RandGreeting%{Enter}
 Return
 
 
-::Bye.::
+::Bye!::
 
 Valediction:
 Random, RandVal, 1, %ValedictionMax%
+Random, RandVal2, 1, %ValedictionMax%
 RandValediction := Valediction%RandVal%
+RandValediction2 := Valediction%RandVal2%
 
-Send %RandValediction%.{Enter}
+Send %RandValediction% then. RandValediction2{!}{Enter}
 Return
 
 

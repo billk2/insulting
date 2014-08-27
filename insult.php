@@ -8,4 +8,4 @@ $valediction = file('Valediction.txt');
 
 echo $greeting[array_rand($greeting)];
 echo ' You '. $nouns[array_rand($nouns)] .' '. $verbing[array_rand($verbing)] .' '. trim($verber[array_rand($verber)]) .'! ';
-echo trim($valediction[array_rand($valediction)]) .' then, '. trim($verber[array_rand($verber)]) .'.';
+echo trim($valediction[array_rand($valediction)]) .' then. '. trim($valediction[array_rand($valediction)]) .'!';

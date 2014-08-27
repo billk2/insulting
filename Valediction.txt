@@ -15,7 +15,7 @@ Be well
 Be wise
 Best
 Best wishes
-Bon Voyage
+Bon voyage
 Break a leg
 Buck up
 Buzz off
@@ -38,16 +38,17 @@ Deuces
 Do well
 Don't be a stranger
 Don't do anything I wouldn't do
-Drive safe
-Drive safely
 Fare thee well
 Farewell
 Fly a kite
+Fly safe
+Fly safely
 Go
 Go away
 Go in peace
 Go on
 God be with you
+God bless
 God bless you
 Godspeed
 Good day
@@ -59,15 +60,19 @@ Good riddance
 Goodbye
 Goodbye for now
 Goodnight
+Happy trades
+Happy trades to you
 Happy trails
 Happy trails to you
 Have a good day
 Have a good evening
+Have a good morning
 Have a good night
 Have a good one
 Have a nice day
 Have fun
-Hugs and Kisses
+Hugs and kisses
+I am out of here
 I miss you already
 I wish I could come
 I'll catch you around
@@ -86,7 +91,9 @@ I'll see you on the flip side
 I'll see you on the other side
 I'll see you soon
 I'm off
+I'm offski
 I'm out
+I'm outta here
 I'm outty
 I'm with you in spirit
 In a bit
@@ -119,14 +126,17 @@ Let me be
 Live long and prosper
 Lotsa love
 Love
+Love you
 Make like a banana and split
 Make like a tree and leave
 Miss you already
 Missing you already
 Night
+Nighty night
 Off
 Off with you
 On your bike
+Over and out
 Pack light
 Pack well
 Peace
@@ -146,6 +156,7 @@ See you in a little bit
 See you in a little while
 See you in a while
 See you in Hell
+See you in the 'verse
 See you in the funny pages
 See you later
 See you later alligator
@@ -154,10 +165,14 @@ See you on the other side
 See you soon 
 See you, wouldn't want to be you
 Seeya
+Seeya, wouldn't want to be ya
 Send my regards
 Send postcards
 Shoots
+Signing off
+Signing out
 Smell you later
+Smoke me a kipper
 So long
 So long, farewell, auf wiedersehen, good night
 Some other time
@@ -186,12 +201,12 @@ Travel light
 Travel lightly
 TTFN
 Until next time
-Up! Up! and away
+Up, up and away
 Vale
 Well, I'm off
 Wish I could come
 With you in spirit
 Write letters
 Write to me
-XOXO
+XXX
 You all come back now
