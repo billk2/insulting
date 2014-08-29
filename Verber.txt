@@ -5,7 +5,7 @@ baggage
 barnacle
 basket cockle
 bladder
-bleep
+bleeper
 blind worm
 boar pig
 bottom
@@ -37,6 +37,7 @@ hugger-mugger
 joithead
 jolt head
 knave
+Laveian tree grub
 lewdster
 lout
 maggot pie
