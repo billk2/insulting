@@ -11,4 +11,4 @@ Additonal insults were added for use with Elite: Dangerous user comms. http://ww
 
 2014-08-27
 
-Added keywords for Greetings.txt and Valedications.txt. triggered by typing 'Greetings!' and 'Bye!'
+Added keywords for Greetings.txt and Valedictions.txt. triggered by typing 'Greetings!' and 'Bye!'

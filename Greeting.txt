@@ -1,7 +1,7 @@
 Afternoon.
 Alright mate?
 Bonjour.
-Boo!
+Boo.
 Breaker breaker.
 Buenas noches.
 Buenos dias.
@@ -44,10 +44,11 @@ Mornin'.
 Morning.
 Mushi mushi.
 Nice to see you.
+Peace be with you.
 Pleased to meet you.
-Psssst!
+Psssst.
 Salutations.
-Shalom.
+Shalom, salaam, peace.
 Sup?
 Watchya.
 Welcome.
